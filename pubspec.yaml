@@ -42,6 +42,10 @@ dependencies:
   path: ^1.8.2
   sqflite: ^2.2.3
   location: ^4.4.0
+  flutter_osm_plugin: ^0.42.0
+  latlng: ^0.2.0
+  http: ^0.13.5
+#  flutter_map_marker_cluster: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
